@@ -32,11 +32,18 @@ The most difficult manipulation required of the data was being able to drill dow
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 1. The early summer months, May and June, were the months where both the most total campaigns were successful and where there was the largest gap between number of successful campaigns and failed campaigns. This suggests that launching a play campaign in these months will make it more likely that the campaign will successfully fund.
 2. The beginnings of winter, November and December, were the months where both the fewest campaigns were launched and there was the smallest gap between successful and failed campaigns, with there being basically no gap at all in December. This suggests that launching a play campaign in these months will make it less likely that the campaign to successfully fund.
+
 - What can you conclude about the Outcomes based on Goals?
+
 Given the high starting percentage of successful play campaigns at the lower goal amounts and the way that line drops, it seems that campaigns with lower fundrasing goals are more likely to successfully fund. The rate of success does see a notewrothy rebound in the values between $35000-$45000, but further analysis would be required to determine if there is an underlying reason for these variation in overall trend.
+
 - What are some limitations of this dataset?
+
 The subcategory of play can encompass a relatively wide number of possibilities, from one-man shows to large-scale productions involving extensive labor and supplies. As such the scope of this data is not reflective of campaigns that could be considered directly analagous to the one Louise intends to launch, though this is offset somewhat by the analysis of launch goals.
+
 - What are some other possible tables and/or graphs that we could create?
+
 It could be interesting to see whether being selected as a staff pick or spotlighted campaign on the Kickstarter website had any impact on the likelihood of funding. Seeing a bar graph comparing campaign success with or without these endorsements could demonstrate how important, if at all, it is for a campaign in this subcategory to be selected for promotion by Kickstarter. Average donation compared to campaign goal could also be informative, though it would likely also be impacted by pledge levels which is not data that is accessible, but it could still provide insight into how backers are interacting with the campaign.
