@@ -7,7 +7,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Chart showing project outcome based on goal](assets/image/Outcomes_vs_Goals.png)
+![Chart showing project outcome based on goal](/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 
